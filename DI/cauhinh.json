@@ -1,0 +1,10 @@
+{
+    "section1" : {
+        "Data1" : "Section1 data1",
+        "Data2" : 1
+    },
+    "MyServiceOptions" : {
+        "Data1" : "MyServiceOptions data1",
+        "Data2" : 123456789
+    }
+}
